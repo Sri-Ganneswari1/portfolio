@@ -33,27 +33,33 @@
 //     </div>
 // }
 
-"use client"
-import { useState } from "react"
-const ToDoApplication = () => {
-    const [name, setName] = useState("")
-    const [listName, setListName] = useState([])
-    const handleCallback = (event:any) => {
-        console.log(event,"event")
-        setName(event.target.value)
-    }
-    const handleButtonOnclick = () => {
-        console.log("onClick")
-        setListName([...listName, name])
-        setName("");
-    }
-    return <div>
-        <input type="text" placeholder="Enter list name" value={name} onChange={handleCallback}/>
-        <button type="button" onClick={handleButtonOnclick}>addtodo</button>
-        <p>{`${name}`}</p>
-        {listName.map((ele,index)=>{
-            return <div key={index}>{ele}</div>
-        })}
-    </div>
+// "use client"
+// import { useState } from "react"
+// const ToDoApplication = () => {
+//     const [name, setName] = useState("")
+//     const [listName, setListName] = useState([])
+//     const handleCallback = (event:any) => {
+//         console.log(event,"event")
+//         setName(event.target.value)
+//     }
+//     const handleButtonOnclick = () => {
+//         console.log("onClick")
+//         setListName([...listName, name])
+//         setName("");
+//     }
+//     return <div>
+//         <input type="text" placeholder="Enter list name" value={name} onChange={handleCallback}/>
+//         <button type="button" onClick={handleButtonOnclick}>addtodo</button>
+//         <p>{`${name}`}</p>
+//         {listName.map((ele,index)=>{
+//             return <div key={index}>{ele}</div>
+//         })}
+//     </div>
+// }
+// export default ToDoApplication
+
+
+const Sample=()=>{
+    return <div></div>
 }
-export default ToDoApplication
+export default Sample
