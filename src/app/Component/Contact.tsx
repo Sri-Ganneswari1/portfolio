@@ -3,9 +3,8 @@ const ContactForm = () => {
         <div className="contact-container" id="contact">
             <div className="contact-left">
                 <h2>Contact <span>Me</span></h2>
-                <h3>Let's Work Together</h3>
-                <p> I’m always excited to collaborate on innovative projects, whether it's building from scratch or enhancing existing applications.</p>
-
+                <h3>Let&apos;s Work Together</h3>
+                <p> I&apos;m always excited to collaborate on innovative projects, whether it&apos;s building from scratch or enhancing existing applications.</p>
             </div>
 
             <div className="contact-right">
@@ -20,4 +19,5 @@ const ContactForm = () => {
         </div>
     );
 };
+
 export default ContactForm;

@@ -7,11 +7,12 @@ const AboutMe = () => {
             <div className="content-section">
                 <div className="home">
                     <p className="description">
-                        Hello! I'm <span className="name-highlight">Sri Ganneswari Gajula</span>, a passionate and detail-oriented
+                        Hello! I&apos;m <span className="name-highlight">Sri Ganneswari Gajula</span>, a passionate and detail-oriented
                         web developer with a robust foundation in modern web technologies, including
                         React.js, Next.js, JavaScript, HTML, and CSS. I excel at crafting responsive,
                         dynamic, and user-friendly web applications, with expertise in state management
-                        using Redux Toolkit and seamless REST API integration.<br></br> I hold a Bachelor of Science Degree in Computer Science from Pithapur Raja's Government College, where I developed a strong technical background and I am currently doing internship in Hypersonic Training and Consultancy Services at Kakinada. 
+                        using Redux Toolkit and seamless REST API integration.<br />
+                        I hold a Bachelor of Science Degree in Computer Science from Pithapur Raja&apos;s Government College, where I developed a strong technical background, and I am currently doing an internship at Hypersonic Training and Consultancy Services in Kakinada.
                     </p>
                 </div>
                 <div className="profile-image-container1">
@@ -25,4 +26,5 @@ const AboutMe = () => {
         </div>
     );
 };
+
 export default AboutMe;

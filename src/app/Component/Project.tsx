@@ -3,7 +3,7 @@ export const Projects = () => {
         <div className="portfolio-container" id="experience">
             <h1 className="portfolio-title">My Projects</h1>
             <div className="project-card">
-                <h2>"EdTech Management Portal"</h2>
+                <h2>&quot;EdTech Management Portal&quot;</h2>
                 <p><strong>Description:</strong> An interactive web platform that enables students to explore and learn various technologies. The portal allows students to track assignments, view scores, manage learning schedules, and receive job notifications.</p>
                 <p><strong>Technologies:</strong> React, JavaScript, Next.js, Redux Toolkit</p>
                 <p><strong>Role:</strong> Software Developer</p>
@@ -17,9 +17,9 @@ export const Projects = () => {
                 </ul>
             </div>
             <div className="project-card">
-                <h2>“BLINDMAN SPECTACLES (Ultrasonic based obstacle detector)”</h2>
+                <h2>&quot;BLINDMAN SPECTACLES (Ultrasonic based obstacle detector)&quot;</h2>
                 <p><strong>Technologies:</strong> Arduino nano, Ultrasonic sensor, Battery, Vibration motor, LED </p>
-                <p><strong>Description:</strong> “Smart Glasses for the Visually Impaired"<br></br>
+                <p><strong>Description:</strong> &quot;Smart Glasses for the Visually Impaired&quot;<br />
                     This project is designed to assist visually impaired individuals by detecting obstacles and providing real-time feedback.</p>
                 <ul>
                     <li>Using Arduino Nano, an ultrasonic sensor, a battery, a vibration motor, and LEDs, the smart glasses identify obstacles and alert the user through vibrations.</li>
