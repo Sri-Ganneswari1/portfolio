@@ -9,10 +9,10 @@ const ProfileSection = () => {
                 </div>
                 <div className="profile-text">
                     <h1>Hey, I&apos;m <span className="highlight">Sri Ganneswari Gajula</span></h1>
-                    <h2>I&apos;m a <span className="highlight">Developer</span></h2>
+                    <h2>I&apos;m a <span className="highlight">Web Developer</span></h2>
                     <p>
-                        Motivated and skilled fresher with a strong foundation in React.js, HTML, CSS, and JavaScript. Familiar with Python, Django, and Full Stack Development. Passionate about problem-solving, 
-                        scalable applications, and continuously learning new technologies to enhance my technical skills with a quick learning ability. Eager to contribute to a dynamic team and grow professionally.
+                    Motivated web developer with a strong foundation in React.js, HTML, CSS, JavaScript and Typescript. Familiar with Full Stack Development. Passionate about problem-solving, scalable applications, and continuously learning new technologies to enhance technical skills with a quick learning ability. Looking for an opportunity to contribute and grow professionally in a dynamic team.
+
                     </p>
                     
                     {/* Social Media Links */}

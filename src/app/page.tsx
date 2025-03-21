@@ -1,18 +1,12 @@
-// const Home =() =>{
-//   return (
-//   <>
-//   </>
-//   );
-// };
-// export default Home
 
-import AboutMe from "./Component/About";
-import ContactForm from "./Component/Contact";
-import EducationFlipBox from "./Component/Education";
-import PortfolioHeader from "./Component/Header";
-import ProfileSection from "./Component/Home";
-import { Projects } from "./Component/Project";
-import Skills from "./Component/Skills";
+
+import AboutMe from "./components/About";
+import ContactForm from "./components/Contact";
+import EducationFlipBox from "./components/Education";
+import PortfolioHeader from "./components/Header";
+import ProfileSection from "./components/Home";
+import { Projects } from "./components/Project";
+import Skills from "./components/Skills";
 
 
 

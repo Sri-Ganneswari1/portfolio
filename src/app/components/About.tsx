@@ -12,7 +12,7 @@ const AboutMe = () => {
                         React.js, Next.js, JavaScript, HTML, and CSS. I excel at crafting responsive,
                         dynamic, and user-friendly web applications, with expertise in state management
                         using Redux Toolkit and seamless REST API integration.<br />
-                        I hold a Bachelor of Science Degree in Computer Science from Pithapur Raja&apos;s Government College, where I developed a strong technical background, and I am currently doing an internship at Hypersonic Training and Consultancy Services in Kakinada.
+                        I hold a Bachelor of Science Degree in Computer Science from Pithapur Rajah&apos;s Government College (Autonomous) and I am currently doing an internship at Hypersonic Training and Consultancy Services in Kakinada, where I developed a strong technical background.
                     </p>
                 </div>
                 <div className="profile-image-container1">

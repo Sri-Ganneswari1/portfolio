@@ -1,4 +1,4 @@
-/* @tailwind base;
+/* /* @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -104,7 +104,7 @@ body {
     font-size: 1rem;
     padding: 6px 10px;
   }
-}
+} 
 
 /* Home Section */
 .profile-container {
@@ -236,8 +236,7 @@ body {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.home::before,
-.home::after {
+.home::before,.home::after {
   content: '';
   position: absolute;
   border-radius: 50%;
@@ -339,7 +338,7 @@ p {
   .description {
     font-size: 16px;
   }
-}
+} 
 
 /* Skills Section */
 .skills {
@@ -594,8 +593,7 @@ button:hover {
     padding: 20px;
   }
 
-  .contact-left,
-  .contact-right {
+  .contact-left,.contact-right {
     max-width: 100%;
     margin-bottom: 20px;
   }
@@ -660,4 +658,87 @@ button:hover {
 @keyframes slideUp {
   0% { opacity: 0; transform: translateY(20px); }
   100% { opacity: 1; transform: translateY(0); }
+} 
+
+/*Contact right form*/
+.contact-right form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center; /* Align all elements in center */
+}
+
+.contact-right input,
+.contact-right textarea,
+.contact-right button {
+  width: 100%; /* Ensures all elements have the same width */
+  max-width: 350px; /* Adjust as per your input field width */
+}
+
+.contact-right button {
+  padding: 12px;
+  background-color: #d08540;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.contact-right button:hover {
+  background-color: #b06a33;
+}
+
+
+.main-heading {
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+  color: #e78c1c;
+  margin-bottom: 30px;
+}
+.flip-container {
+  perspective: 1000px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flip-box {
+  width: 250px;
+  height: 300px;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.6s;
+}
+
+.flip-box-front,
+.flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border-radius: 15px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.flip-box-front {
+  background: #e78c1c;
+  color: white;
+}
+
+.flip-box-back {
+  background: #fff;
+  color: black;
+  transform: rotateY(180deg);
+}
+
+.flip-box:hover {
+  transform: rotateY(180deg);
 }

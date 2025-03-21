@@ -10,7 +10,7 @@ const EducationFlipBox = () => {
                         </div>
                         <div className="flip-box-back">
                             <h2>Computer Science</h2>
-                            <p>Pithapur Raja&apos;s Government College (Autonomous) | Kakinada | 2022 - 2025</p>
+                            <p>Pithapur Rajah&apos;s Government College (Autonomous) | Kakinada | 2022 - 2025</p>
                             <p>CGPA: 8.2/10</p>
                         </div>
                     </div>
