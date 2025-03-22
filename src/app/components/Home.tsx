@@ -5,7 +5,7 @@ const ProfileSection = () => {
         <div className="profile-container" id="about">
             <div className="profile-content">
                 <div className="profile-image-container1">
-                    <img src="../../srig.png" alt="Profile" className="profile-image1" />
+                    <img src="../../photo.jpeg" alt="Profile" className="profile-image1" />
                 </div>
                 <div className="profile-text">
                     <h1>Hey, I&apos;m <span className="highlight">Sri Ganneswari Gajula</span></h1>
@@ -26,7 +26,7 @@ const ProfileSection = () => {
                         <a href="https://github.com/Sri-Ganneswari1" target="_blank" rel="noopener noreferrer">
                             <FaGithub size={30} />
                         </a>
-                    </div>
+                    </div><br/>
 
                     <button className="download-cv">Download CV</button>
                 </div>
