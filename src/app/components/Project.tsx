@@ -28,14 +28,14 @@ export const Projects = () => {
                     detecting an obstacle, the vibration motor indicator alert the user, enhancing navigation
                     safety and independence.</p>
                 <ul>
-                <p><strong>Responsibilities:</strong></p>
+                    <p><strong>Responsibilities:</strong></p>
                     <li>Acted as the project leader in a team-based academic project guided by faculty.</li>
                     <li>Contributed to the design and development of smart glasses to help visually impaired
-                    individuals detect nearby obstacles</li>
+                        individuals detect nearby obstacles</li>
                     <li>Integrated Arduino Nano with ultrasonic sensor and vibration motor to provide real-time
-                    feedback through vibrations</li>
+                        feedback through vibrations</li>
                     <li>Managed component assembly, basic coding, and team coordination to ensure project
-                    completion and demonstration</li>
+                        completion and demonstration</li>
                 </ul>
             </div>
         </div>
