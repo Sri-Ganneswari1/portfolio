@@ -9,10 +9,10 @@ const AboutMe = () => {
                     <p className="description">
                         Hello! I&apos;m <span className="name-highlight">Sri Ganneswari Gajula</span>, a passionate and detail-oriented
                         web developer with a robust foundation in modern web technologies, including
-                        React.js, Next.js, JavaScript, HTML, and CSS. I excel at crafting responsive,
+                        HTML5, CSS3, React.js, Next.js, JavaScript and Typescript. I excel at crafting responsive,
                         dynamic, and user-friendly web applications, with expertise in state management
                         using Redux Toolkit and seamless REST API integration.<br />
-                        I hold a Bachelor of Science Degree in Computer Science from Pithapur Rajah&apos;s Government College (Autonomous) and I am currently doing an internship at Hypersonic Training and Consultancy Services in Kakinada, where I developed a strong technical background.
+                        I hold a Bachelor of Science Degree in Computer Science from Pithapur Rajah&apos;s Government Degree College of Science and Arts (Autonomous) 2025, where I developed a strong technical background.
                     </p>
                 </div>
                 <div className="profile-image-container1">
