@@ -21,7 +21,7 @@ export const Projects = () => {
                 <h2>&quot;BLINDMAN SPECTACLES (Ultrasonic based obstacle detector)&quot;</h2>
                 <p><strong>Team Size:</strong> 7</p>
                 <p><strong>Role:</strong> Project Leader</p>
-                <p><strong>Hardware components:</strong> Arduino nano, Ultrasonic sensor, Smart glasses, Battery, and Vibration motor.</p>
+                <p><strong>Hardware components:</strong> Arduino nano, Ultrasonic sensor, Smart glasses, Battery, Vibration motor and Connecting wires.</p>
                 <p><strong>Description:</strong> Designed to assist visually impaired individuals, this smart glasses project
                     detects obstacles and provides real-time feedback through vibrations. The system
                     integrates an Arduino Nano with an ultrasonic sensor to identify nearby objects. Upon
