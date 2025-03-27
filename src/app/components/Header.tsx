@@ -6,11 +6,11 @@ const PortfolioHeader = () => {
                 <h1 className="name">Sri Ganneswari Gajula</h1>
             </div>
             <nav className="nav">
-                <a href="#about">Home</a>
-                <a href="#home">About</a>
-                <a href="#projects">Skills</a>
-                <a href="#skills">Education</a>
-                <a href="#experience">Projects</a>
+                <a href="#home">Home</a>
+                <a href="#about">About</a>
+                <a href="#skills">Skills</a>
+                <a href="#education">Education</a>
+                <a href="#projects">Projects</a>
                 <a href="#contact">Contact</a>
             </nav>
         </header>
