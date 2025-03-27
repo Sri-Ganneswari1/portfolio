@@ -2,7 +2,7 @@ import { FaEnvelope, FaLinkedin, FaGithub } from "react-icons/fa";
 
 const ProfileSection = () => {
     return (
-        <div className="profile-container" id="about">
+        <div className="profile-container" id="home">
             <div className="profile-content">
                 <div className="profile-image-container1">
                     <img src="../../photo.jpeg" alt="Profile" className="profile-image1" />

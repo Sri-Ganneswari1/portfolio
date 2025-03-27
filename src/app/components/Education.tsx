@@ -1,6 +1,6 @@
 const EducationFlipBox = () => {
     return (
-        <div className="container" id="skills">
+        <div className="container" id="education">
             <h1 className="main-heading">EDUCATION DETAILS</h1>
             <div className="grid-container">
                 <div className="flip-container">

@@ -1,6 +1,6 @@
 export const Projects = () => {
     return (
-        <div className="portfolio-container" id="experience">
+        <div className="portfolio-container" id="projects">
             <h1 className="portfolio-title">My Projects</h1>
             <div className="project-card">
                 <h2>&quot;EdTech Management Portal&quot;</h2>
