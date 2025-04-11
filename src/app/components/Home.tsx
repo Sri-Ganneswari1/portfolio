@@ -11,9 +11,10 @@ const ProfileSection = () => {
                     <h1>Hey, I&apos;m <span className="highlight">Sri Ganneswari Gajula</span></h1>
                     <h2>I&apos;m a <span className="highlight">Developer</span></h2>
                     <p>
-                        Enthusiastic web developer with a strong foundation in HTML, CSS, JavaScript, Typescript, React.js, Next.js. Familiar with Full Stack Development. Passionate about problem-solving, scalable applications, and continuously learning new technologies to enhance technical skills with a quick learning ability. Looking for an opportunity to contribute and grow professionally in a dynamic team.
-
-
+                        Enthusiastic Web developer with a strong foundation in HTML, CSS, JavaScript, React, Node.js,
+                        Next.js. Passionate about problem-solving, scalable applications and continuously learning new
+                        technologies to enhance my technical skills with a quick learning ability. Looking for an
+                        opportunity to contribute and grow professionally in a dynamic team.
                     </p>
 
                     {/* Social Media Links */}

@@ -18,24 +18,14 @@ export const Projects = () => {
                 </ul>
             </div>
             <div className="project-card">
-                <h2>&quot;BLINDMAN SPECTACLES (Ultrasonic based obstacle detector)&quot;</h2>
-                <p><strong>Team Size:</strong> 7</p>
-                <p><strong>Role:</strong> Project Leader</p>
-                <p><strong>Hardware components:</strong> Arduino nano, Ultrasonic sensor, Smart glasses, Battery, Vibration motor and Connecting wires.</p>
-                <p><strong>Description:</strong> Designed to assist visually impaired individuals, this smart glasses project
-                    detects obstacles and provides real-time feedback through vibrations. The system
-                    integrates an Arduino Nano with an ultrasonic sensor to identify nearby objects. Upon
-                    detecting an obstacle, the vibration motor indicator alert the user, enhancing navigation
-                    safety and independence.</p>
+                <h2>&quot;ULTRASONIC BASED OBSTACLE DETECTOR&quot;</h2> 
+                 <p><strong>Team Size: 7</strong>|<strong>Project Leader</strong></p>
                 <ul>
-                    <p><strong>Responsibilities:</strong></p>
-                    <li>Acted as the project leader in a team-based academic project guided by faculty.</li>
-                    <li>Contributed to the design and development of smart glasses to help visually impaired
-                        individuals detect nearby obstacles</li>
-                    <li>Integrated Arduino Nano with ultrasonic sensor and vibration motor to provide real-time
-                        feedback through vibrations</li>
-                    <li>Managed component assembly, basic coding, and team coordination to ensure project
-                        completion and demonstration</li>
+                    <li>Led team in designing smart glasses to detect obstacles using ultrasonic sensors and
+                    Arduino Nano.</li>
+                    <li>Integrated vibration motors for real-time haptic feedback, enhancing navigation safety.</li>
+                    <li>Managed hardware assembly, coding, and team coordination for successful project
+                    completion.</li>
                 </ul>
             </div>
         </div>
