@@ -442,8 +442,6 @@ p {
   height: 100vh;
   background-color: #f5f5f5;
   padding: 20px;
-  /* font-family: Arial, sans-serif;
- */
 }
 
 .main-heading {
@@ -703,7 +701,7 @@ button:hover {
   padding: 12px;
   background-color: #d08540;
   border: none;
-  border-radius: 5px;
+  border-radius: 20px;
   color: white;
   font-size: 18px;
   cursor: pointer;
