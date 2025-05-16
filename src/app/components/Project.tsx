@@ -4,17 +4,17 @@ export const Projects = () => {
             <h1 className="portfolio-title">My Projects</h1>
             <div className="project-card">
                 <h2>&quot;EdTech Management Portal&quot;</h2>
-                <p>Team Size : 8</p>
-                <p>Role : Software Developer</p>
+                <p>Team Size : 8 | Role: Frontend Developer</p>
                 <p>Technologies : React, JavaScript, Next.js, Redux Toolkit</p>
-                <p>Description : An interactive web platform that enables students to explore and learn various technologies. The portal allows students to track assignments, view scores, manage learning schedules, and receive job notifications.</p>
+                <p>Description : Developed an interactive web platform for students to explore technologies, track
+                    assignments, view scores, manage schedules, and receive job notifications.</p>
                 <ul>
                     <p>Responsibilities :</p>
-                    <li>Developed responsive web pages and reusable stateful components using React and Next.js.</li>
-                    <li>Integrated REST APIs for dynamic data handling and seamless user experience.</li>
-                    <li>Managed global state using Redux Toolkit to ensure consistent application state across components.</li>
-                    <li>Delivered user stories on time while following Agile methodology.</li>
-                    <li>Collaborated on code reviews and participated in stand-ups and sprint planning.</li>
+                    <li>Built responsive UI and reusable components using React and Next.js</li>
+                    <li>Integrated REST APIs for dynamic data rendering</li>
+                    <li>Managed global state with Redux Toolkit for consistent app behavior</li>
+                    <li>Delivered features on time following Agile methodology</li>
+                    <li>Participated in code reviews, daily stand-ups, and sprint planning.</li>
                 </ul>
             </div>
             <div className="project-card">

@@ -7,11 +7,11 @@ const AboutMe = () => {
             <div className="content-section">
                 <div className="home">
                     <p className="description">
-                        Hello! I&apos;m <span className="name-highlight">Sri Ganneswari Gajula</span>, a passionate and detail-oriented
-                        web developer with a robust foundation in modern web technologies, including
-                        HTML5, CSS3, React.js, Next.js, JavaScript and Typescript. I excel at crafting responsive,
-                        dynamic, and user-friendly web applications, with expertise in state management
-                        using Redux Toolkit and seamless REST API integration.<br />
+                        Hello! I&apos;m <span className="name-highlight">Sri Ganneswari Gajula</span>, a motivated Frontend Developer with hands-on internship experience in building responsive and
+                        user-friendly web applications using React.js, Next.js, JavaScript, HTML, and CSS. Proficient in
+                        integrating REST APIs, managing state with Redux Toolkit, and collaborating in agile team
+                        environments. Eager to contribute to real world projects, deepen technical expertise, and grow
+                        within a dynamic organization.<br />
                         I hold a Bachelor of Science Degree in Computer Science from Pithapur Rajah&apos;s Government College (Autonomous) 2025, where I developed a strong technical background.
                     </p>
                 </div>
