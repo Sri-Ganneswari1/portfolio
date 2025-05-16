@@ -9,7 +9,7 @@ const ProfileSection = () => {
                 </div>
                 <div className="profile-text">
                     <h1>Hey, I&apos;m <span className="highlight">Sri Ganneswari Gajula</span></h1>
-                    <h2>I&apos;m a <span className="highlight">Frontend Developer</span></h2>
+                    <h2>I&apos;m a <span className="highlight">Software Developer</span></h2>
                     <p>
                         Motivated Software Developer with a focus on Frontend and Full Stack development with hands-on internship experience in building responsive and
                         user-friendly web applications using React.js, Next.js, JavaScript, HTML, and CSS. Proficient in
