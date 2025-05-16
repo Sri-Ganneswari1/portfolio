@@ -7,7 +7,7 @@ const AboutMe = () => {
             <div className="content-section">
                 <div className="home">
                     <p className="description">
-                        Hello! I&apos;m <span className="name-highlight">Sri Ganneswari Gajula</span>, a motivated Frontend Developer with hands-on internship experience in building responsive and
+                        Hello! I&apos;m <span className="name-highlight">Sri Ganneswari Gajula</span>, a motivated Software Developer with a focus on Frontend and Full Stack development with hands-on internship experience in building responsive and
                         user-friendly web applications using React.js, Next.js, JavaScript, HTML, and CSS. Proficient in
                         integrating REST APIs, managing state with Redux Toolkit, and collaborating in agile team
                         environments. Eager to contribute to real world projects, deepen technical expertise, and grow
